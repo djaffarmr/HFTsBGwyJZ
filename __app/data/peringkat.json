@@ -1,0 +1,82 @@
+[
+  {
+    "id": 0,
+    "name": "Muhammad Albagir",
+    "title": "World Class",
+    "thumbnail_img": "https://d10dnch8g6iuzs.cloudfront.net/picture/20420170807150752758_o",
+    "rank": "1st",
+    "points": 12000
+  },
+  {
+    "id": 1,
+    "name":"Muhammad Yusuf Kurniawan",
+    "title":"World Class",
+    "thumbnail_img":"https://d10dnch8g6iuzs.cloudfront.net/picture/73820170807150839262_o",
+    "rank": "2nd",
+    "points": 10500
+  },
+  {
+    "id": 2,
+    "name":"Tricahyo Ramadhan",
+    "title":"Professional",
+    "thumbnail_img":"https://d10dnch8g6iuzs.cloudfront.net/picture/37220170807153201515_o",
+    "rank": "3rd",
+    "points": 9200
+  },
+  {
+    "id": 3,
+    "name":"Rio Pangestu Putra",
+    "title":"Professional",
+    "thumbnail_img":"https://d10dnch8g6iuzs.cloudfront.net/picture/85120170807153242648_o",
+    "rank": "4th",
+    "points": 9000
+  },
+  {
+    "id": 4,
+    "name":"Andriansyah Agustin",
+    "title":"Semi Pro",
+    "thumbnail_img":"https://d10dnch8g6iuzs.cloudfront.net/picture/21420170807153210854_o",
+    "rank": "5th",
+    "points": 7800
+  },
+  {
+    "id": 5,
+    "name":"Ardiansyah Runtuboy",
+    "title":"Semi Pro",
+    "thumbnail_img":"https://d10dnch8g6iuzs.cloudfront.net/picture/82220170807153257666_o",
+    "rank": "6th",
+    "points": 7700
+  },
+  {
+    "id": 6,
+    "name":"Sauqy Saud Lubis",
+    "title":"Semi Pro",
+    "thumbnail_img":"https://d10dnch8g6iuzs.cloudfront.net/picture/19420170807153331892_o",
+    "rank": "7th",
+    "points": 7700
+  },
+  {
+    "id": 7,
+    "name":"Anton Cahyo Nugroho",
+    "title":"Semi Pro",
+    "thumbnail_img":"https://d10dnch8g6iuzs.cloudfront.net/picture/74120170807153342142_o",
+    "rank": "8th",
+    "points": 7000
+  },
+  {
+    "id": 8,
+    "name":"Andi Fardiansyah",
+    "title":"Semi Pro",
+    "thumbnail_img":"https://d10dnch8g6iuzs.cloudfront.net/picture/81020170807153351510_o",
+    "rank": "9th",
+    "points": 6900
+  },
+  {
+    "id": 9,
+    "name":"Eko Sutrisno",
+    "title":"Semi Pro",
+    "thumbnail_img":"https://d10dnch8g6iuzs.cloudfront.net/picture/76420170807153406226_o",
+    "rank": "10th",
+    "points": 6100
+  }
+]
